@@ -1,0 +1,9 @@
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\bin\Debug\netcoreapp1.1\Multiplication.deps.json
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\bin\Debug\netcoreapp1.1\Multiplication.runtimeconfig.json
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\bin\Debug\netcoreapp1.1\Multiplication.runtimeconfig.dev.json
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\bin\Debug\netcoreapp1.1\Multiplication.dll
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\bin\Debug\netcoreapp1.1\Multiplication.pdb
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\obj\Debug\netcoreapp1.1\Multiplication.csprojResolveAssemblyReference.cache
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\obj\Debug\netcoreapp1.1\Multiplication.AssemblyInfo.cs
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\obj\Debug\netcoreapp1.1\Multiplication.dll
+C:\Users\Aniket\documents\visual studio 2017\Projects\Multiplication\Multiplication\obj\Debug\netcoreapp1.1\Multiplication.pdb
